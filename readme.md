@@ -31,47 +31,6 @@ My work is primarily C++ and revolves around turning compiled software into some
 
 ---
 
-## 🛠️ What I'm Building
-
-| Project | Description |
-|---|---|
-| 🧠 **[NiSuite](https://github.com/TsyVM/NiSuite)** | Binary intelligence & architecture recovery |
-| 🪝 **[VanHooks](https://github.com/TsyVM/VanHooks)** | Modern C++23 cross-platform hooking & instrumentation |
-| 🎨 **[VanGFX](https://github.com/TsyVM/VanGFX)** | DirectX interception & graphics tooling |
-| 🖥️ **[VanGUI](https://github.com/TsyVM/VanGUI)** | Lightweight C++23 GUI infrastructure |
-| 🎮 **Game SDKs** | Reverse-engineered SDKs and tooling for classic PC games |
-| 📚 **Game Encyclopedias** | Structured documentation of recovered engine internals |
-
----
-
-## 🔬 Areas of Interest
-
-<div align="center">
-
-`C++23` · `Reverse Engineering` · `Binary Analysis` · `RTTI` · `VTables`  
-`PE Internals` · `Function Hooking` · `DirectX` · `Game Engines`  
-`Mod Loaders` · `SDK Design` · `Architecture Recovery` · `Systems Programming`
-
-</div>
-
----
-
-## 🎮 Game Technology
-
-I spend a lot of time digging into older game engines and turning that research into usable ecosystems:
-
-**The Simpsons: Hit & Run**  
-`DonutsSDK` · `HnREncyclopedia` · `SAHRDiag` · `sahr-modloader`
-
-**Need for Speed: Most Wanted (2005)**  
-`MWSDK` · `MWEncyclopedia` · `nfsmw-modloader` · `Rockport Editor`
-
-The goal isn't simply to find offsets.
-
-It's to **reconstruct the architecture behind them**.
-
----
-
 ## 🧩 TeamVanilla
 
 A lot of my work is developed under **TeamVanilla** — building reverse-engineering infrastructure, game development tools, SDKs, graphics technology, and research projects.
