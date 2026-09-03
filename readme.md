@@ -24,8 +24,6 @@ I build tools and libraries for **binary analysis, runtime instrumentation, game
 
 My work is primarily C++ and revolves around turning compiled software into something developers can actually understand and build against.
 
-<img width="100%" src="https://raw.githubusercontent.com/TsyVM/TsyVM/main/divider-1.png"/>
-
 ## 🧩 TeamVanilla
 
 A lot of my work is developed under **TeamVanilla** — building reverse-engineering infrastructure, game development tools, SDKs, graphics technology, and research projects.
