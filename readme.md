@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:CC0000&height=200&section=header&text=TsyVM&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Reverse%20Engineering%20%C2%B7%20Systems%20Programming%20%C2%B7%20Game%20Technology&descAlignY=55&descSize=17"/>
+<img width="100%" src="https://raw.githubusercontent.com/TsyVM/TsyVM/main/divider-3.png"/>
 
 <a href="https://github.com/TsyVM">
 <img src="https://readme-typing-svg.demolab.com/?lines=Reverse+the+Binary.+Reconstruct+the+Architecture.;Build+it.+Break+it.+Understand+it.;Nothing+ships+unless+it%27s+proven.&font=Fira%20Code&center=true&width=700&height=45&color=CC0000&vCenter=true&size=20&pause=1800"/>
@@ -24,7 +24,7 @@ I build tools and libraries for **binary analysis, runtime instrumentation, game
 
 My work is primarily C++ and revolves around turning compiled software into something developers can actually understand and build against.
 
-<img width="100%" src="https://raw.githubusercontent.com/TsyVM/TsyVM/main/divider-2.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/TsyVM/TsyVM/main/divider-1.png"/>
 
 ## 🧩 TeamVanilla
 
@@ -46,7 +46,8 @@ A lot of my work is developed under **TeamVanilla** — building reverse-enginee
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/TsyVM/TsyVM/main/divider-3.png"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/TsyVM/TsyVM/main/divider-1.png"/>
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:000000&height=100&section=footer"/>
