@@ -22,12 +22,6 @@ Building tools that make compiled software understandable.
 `C++23` · `Reverse Engineering` · `Binary Analysis` · `RTTI` · `VTables`  
 `Game Engines` · `DirectX` · `Modding` · `Systems Programming`
 
-### 🧩 Team
-
-**TeamVanilla**
-
-> Reverse the binary. Reconstruct the architecture.
-
 <br>
 
 *I do not like GitHub. (...but here we are.)*
