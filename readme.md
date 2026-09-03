@@ -14,8 +14,6 @@
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/TsyVM/TsyVM/main/divider-1.png"/>
-
 ## 👋 About
 
 I'm a **game developer and reverse engineer** focused on understanding how software actually works.
@@ -45,7 +43,7 @@ A lot of my work is developed under **TeamVanilla** — building reverse-enginee
 </div>
 
 
-<img width="100%" src="https://raw.githubusercontent.com/TsyVM/TsyVM/main/divider-1.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/TsyVM/TsyVM/main/divider-4.png"/>
 
 <div align="center">
 </div>
