@@ -19,7 +19,7 @@
 
 ## 👋 About
 
-I'm a **systems programmer and reverse engineer** focused on understanding how software actually works.
+I'm a **game developer and reverse engineer** focused on understanding how software actually works.
 
 I build tools and libraries for **binary analysis, runtime instrumentation, game modding, graphics, and architecture recovery** — with an emphasis on evidence, reproducibility, and clean engineering.
 
