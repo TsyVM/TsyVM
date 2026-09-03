@@ -25,10 +25,6 @@ I build tools and libraries for **binary analysis, runtime instrumentation, game
 
 My work is primarily C++ and revolves around turning compiled software into something developers can actually understand and build against.
 
-> **Evidence over assumptions.**
->
-> If it isn't proven, it isn't finished.
-
 ---
 
 ## 🧩 TeamVanilla
