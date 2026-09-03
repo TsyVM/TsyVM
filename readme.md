@@ -50,5 +50,4 @@ A lot of my work is developed under **TeamVanilla** — building reverse-enginee
 <img width="100%" src="https://raw.githubusercontent.com/TsyVM/TsyVM/main/divider-1.png"/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:000000&height=100&section=footer"/>
 </div>
